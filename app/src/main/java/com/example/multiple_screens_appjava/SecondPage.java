@@ -13,5 +13,6 @@ public class SecondPage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second_page);
         nextPageButton = findViewById(R.id.button2);
+        backButton = findViewById(R.id.button3);
     }
 }
