@@ -13,11 +13,11 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginStart="77dp"
-        android:layout_marginTop="107dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="155dp"
         android:text="You are on the Final Page."
         android:textAllCaps="true"
-        android:textSize="20sp"
+        android:textSize="24sp"
         android:textStyle="bold|italic" />
 
     <Button
