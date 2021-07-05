@@ -28,4 +28,13 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="293dp"
         android:text="Click Me To Go To The next page" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="247dp"
+        android:text="Button" />
 </RelativeLayout>
