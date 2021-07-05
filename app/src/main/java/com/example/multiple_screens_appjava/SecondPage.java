@@ -12,5 +12,6 @@ public class SecondPage extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second_page);
+        nextPageButton = findViewById(R.id.button2);
     }
 }
