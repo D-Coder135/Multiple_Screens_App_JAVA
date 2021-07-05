@@ -27,5 +27,5 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="312dp"
-        android:text="Button" />
+        android:text="Click Me To Go To The Next Page" />
 </RelativeLayout>
