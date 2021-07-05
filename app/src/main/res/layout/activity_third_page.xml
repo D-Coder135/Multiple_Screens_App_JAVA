@@ -6,4 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".ThirdPage">
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="162dp"
+        android:layout_marginTop="153dp"
+        android:text="TextView" />
 </RelativeLayout>
