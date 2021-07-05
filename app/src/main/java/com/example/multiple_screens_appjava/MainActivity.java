@@ -16,12 +16,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         nextPageButton = findViewById(R.id.button);
 
-        nextPageButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, SecondPage.class);
-                startActivity(intent);
-            }
+        nextPageButton.setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, SecondPage.class);
+            startActivity(intent);
         });
     }
 }
