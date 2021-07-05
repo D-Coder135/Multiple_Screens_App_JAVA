@@ -14,5 +14,6 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="162dp"
         android:layout_marginTop="153dp"
-        android:text="You are on the Final Page." />
+        android:text="You are on the Final Page."
+        android:textSize="20sp" />
 </RelativeLayout>
