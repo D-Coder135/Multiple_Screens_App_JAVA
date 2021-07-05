@@ -13,8 +13,10 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginStart="74dp"
-        android:layout_marginTop="148dp"
+        android:layout_marginStart="47dp"
+        android:layout_marginTop="122dp"
         android:text="Welcome, This is the first page."
-        android:textSize="20sp" />
+        android:textAllCaps="true"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
 </RelativeLayout>
