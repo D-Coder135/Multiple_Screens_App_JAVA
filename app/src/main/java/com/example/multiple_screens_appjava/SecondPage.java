@@ -21,6 +21,7 @@ public class SecondPage extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(SecondPage.this, ThirdPage.class);
+                startActivity(intent);
             }
         });
     }
