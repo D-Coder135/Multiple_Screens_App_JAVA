@@ -14,5 +14,6 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="164dp"
         android:layout_marginTop="137dp"
-        android:text="You are now on the second page." />
+        android:text="You are now on the second page."
+        android:textSize="20sp" />
 </RelativeLayout>
