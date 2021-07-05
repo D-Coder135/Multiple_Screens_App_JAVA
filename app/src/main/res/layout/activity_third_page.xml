@@ -12,8 +12,11 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="162dp"
-        android:layout_marginTop="153dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="77dp"
+        android:layout_marginTop="107dp"
         android:text="You are on the Final Page."
-        android:textSize="20sp" />
+        android:textAllCaps="true"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
 </RelativeLayout>
