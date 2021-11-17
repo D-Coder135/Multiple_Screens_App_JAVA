@@ -2,7 +2,7 @@ package com.example.multiple_screens_appjava;
 
 public class class1 {
 
-    int a,b;
+    int a,b,x,y;
     public class1() {
     }
 
@@ -12,6 +12,14 @@ public class class1 {
 
     public int getB() {
         return b;
+    }
+    
+    public int getX() {
+        return x;
+    }
+    
+    public int getY() {
+        return y;
     }
 
     public void setA(int a) {
